@@ -14,6 +14,7 @@ Reporting	Markdown, Written Insights, PDF Summary
 Business Thinking	Commercial Recommendations, Trial Store Testing, Benchmarking
 
 🔍 Tasks Breakdown
+
 📁 Task 1: Data Preparation and Exploration
 Cleaned and pre-processed transaction datasets.
 
@@ -24,6 +25,7 @@ Identified anomalies (e.g., irregular price patterns) and handled missing data.
 Output: Clean datasets ready for analysis.
 
 📁 Task 2: Customer Analytics
+
 Created customer segments based on purchasing behavior.
 
 Compared metrics across loyal vs. new customers.
@@ -33,6 +35,7 @@ Found patterns in product category preference and spending habits.
 Output: Insightful visualizations and key customer behavior summaries.
 
 📁 Task 3: Uplift Testing on Trial Stores
+
 Identified control vs. trial stores using benchmarking logic (based on sales patterns and demographics).
 
 Conducted uplift analysis to determine if store layout trials led to a statistically significant sales increase.
@@ -42,6 +45,7 @@ Included pre-trial matching and post-trial comparisons.
 Output: Uplift test results with statistical justification.
 
 📁 Task 4: Final Report to Category Manager
+
 Synthesized insights from previous tasks.
 
 Created actionable, data-backed recommendations for commercial stakeholders.
@@ -51,6 +55,7 @@ Focused on increasing customer retention, optimizing store layout, and identifyi
 Output: Professional report for business decision-making.
 
 ❌ Not Used in the Simulation
+
 To stay aligned with the scope of the Quantium simulation, the following were not included:
 
 No use of machine learning models or predictive modeling
@@ -64,6 +69,7 @@ No use of external datasets beyond those provided
 No deployment or API integration
 
 📌 Outcome and Learnings
+
 This simulation helped reinforce my ability to:
 
 Think critically about business problems using data
